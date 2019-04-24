@@ -1,0 +1,16 @@
+Index: test5.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- test5.py	(revision 5d845414c5b8aeece386c581ee5e5afab448c124)
++++ test5.py	(date 1556071644402)
+@@ -1,4 +1,5 @@
+ import numpy as np
+ a=np.array([1,2,3,4])
+ print(a)
+-print("aaaaa")
+\ No newline at end of file
++print("aaaaa")
++print("bbbbb")
+\ No newline at end of file
